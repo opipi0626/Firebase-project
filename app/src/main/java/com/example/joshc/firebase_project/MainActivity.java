@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                             // Sign in success, update UI with the signed-in user's information
                             Log.d("msg", "signInWithEmail:success");
                         }else{
-                            Log.d("msg","login feild error");
+                            Log.d("msg","your password or name is not currect");
                         }
                     }
                 });
